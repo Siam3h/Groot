@@ -5,15 +5,15 @@ Groot is a virtual assistant built in python.
 # Modules and Packages
 They include:
  
- speech_recognition  
- pyttsx3
- webbrowser
- wikipedia
- datetime
- time
- os
- requests
- json
- pyjokes
- smtplib
+ speech_recognition | 
+ pyttsx3 |
+ webbrowser |
+ wikipedia |
+ datetime |
+ time |
+ os |
+ requests |
+ json |
+ pyjokes |
+ smtplib |
  random
